@@ -24,7 +24,8 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 280%;
+    margin-left: 25px;
 }
 
 /*navigation bar */
@@ -61,7 +62,7 @@ menu a:hover {
 }
 
 a:hover {
-    box-shadow: inset 100px 0 0 0 #54b3d6;
+    box-shadow: inset 100px 0 0 0 orange;
     color: white;
 }
 
@@ -71,22 +72,28 @@ a:hover {
 
 /* hero image */
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
 #cover-text,
 #cover-text h2 {
     color: white;
 }
 
 #hero-image {
-    height: 700px;
+    height: 600px;
     width: 100%;
     background: url('../images/hero.jpg') no-repeat center center;
 }
 
 #cover-text {
-    font-size: 100%;
+    font-size: 120%;
     font-family: 'Open Sans', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 
     width: 300px;
     height: 200px;
@@ -100,4 +107,31 @@ a:hover {
     right: 150px;
     position: absolute;
 
+}
+
+/* products */
+
+#products {
+    height: 600px;
+}
+
+#monitor-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: orange;
+
+}
+
+#mouse-about {
+    padding-top: 30px;
+    width: 33%;
+    float:right;
+    background-color: white;
+}
+
+#keyboard-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: black;
 }
