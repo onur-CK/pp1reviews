@@ -17,7 +17,8 @@ body {
 h1, h2 {
     font-family: 'Noto Sans Cypro Minoan', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
+    color: black;
 }
 
 #logo {
@@ -25,3 +26,16 @@ h1, h2 {
     font-size: 300%;
 }
 
+/*navigation bar */
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;
+   }
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+
+}
