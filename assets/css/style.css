@@ -9,4 +9,19 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
+    color:black;
 }
+
+/* headings and logo*/
+
+h1, h2 {
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
+
