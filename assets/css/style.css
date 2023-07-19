@@ -65,3 +65,10 @@ menu a:hover {
   .active {
     border-bottom:  1px solid black;
   }
+
+  /* hero image */
+
+  #hero-image {
+    height: 700px;
+    width: 100%;
+    background: url('../images/hero.jpg') no-repeat center center;
