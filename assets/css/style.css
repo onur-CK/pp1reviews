@@ -8,13 +8,14 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-weight:400;
-    color:black;
+    font-weight: 400;
+    color: black;
 }
 
 /* headings and logo*/
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Noto Sans Cypro Minoan', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -31,10 +32,11 @@ h1, h2 {
 #menu {
     font-size: 140%;
     letter-spacing: 5px;
-   }
+}
 
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 80px;
 }
 
@@ -56,19 +58,46 @@ menu a:hover {
     margin: 0 -.25rem;
     padding: 0 .25rem;
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-  }
-  a:hover {
+}
+
+a:hover {
     box-shadow: inset 100px 0 0 0 #54b3d6;
     color: white;
-  }
+}
 
-  .active {
-    border-bottom:  1px solid black;
-  }
+.active {
+    border-bottom: 1px solid black;
+}
 
-  /* hero image */
+/* hero image */
 
-  #hero-image {
+#cover-text,
+#cover-text h2 {
+    color: white;
+}
+
+#hero-image {
     height: 700px;
     width: 100%;
     background: url('../images/hero.jpg') no-repeat center center;
+}
+
+#cover-text {
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 165, 0, .7);
+
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
+
+}
