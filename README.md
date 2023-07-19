@@ -4,4 +4,6 @@ This website is created for computer components user experience disclosure.There
 
 # font family 
 
-# inspirations (mouse "Techlead" youtube channel, for keyboard and monitor; "https://www.rtings.com/" and "Bijan Jamshidi" youtube channel.)
+# inspirations: mouse "Techlead" youtube channel, for keyboard and monitor; "https://www.rtings.com/" and "Bijan Jamshidi" youtube channel.
+
+# Sources I got inspired by when reviewing code structures:
