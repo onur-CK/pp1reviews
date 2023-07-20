@@ -155,10 +155,25 @@ a:hover {
     background: #fff;
     padding: 20px;
     text-align: center;
-    
- 
 }
 
 .sign-up-form p {
     margin-top: 10px;
 }
+
+.sign-up-form h1 {
+    color: orange;
+    margin-bottom: 30px;
+    
+}
+
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid blue;
+    outline: none;
+}
+
+
