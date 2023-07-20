@@ -91,7 +91,7 @@ a:hover {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero.jpg') no-repeat center center;
+    background: url('../images/monitor-test.jpg') no-repeat center center;
 }
 
 #cover-text {
@@ -164,16 +164,50 @@ a:hover {
 .sign-up-form h1 {
     color: orange;
     margin-bottom: 30px;
-    
 }
 
 .input-box {
     border-radius: 20px;
     padding: 10px;
     margin: 10px 0;
-    width: 100%;
+    width: 80%;
     border: 1px solid blue;
     outline: none;
+}
+
+button {
+    color: black;
+    width: 90%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.signup-btn {
+    background-color: yellow;
+}
+
+.google-btn { 
+    background-color: green;
+}
+
+a { 
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.or {
+    background: white;
+    width: 30px;
+    margin: -19px auto 10px;
 }
 
 
