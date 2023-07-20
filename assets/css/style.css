@@ -3,13 +3,17 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: black;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
 }
 
 /* headings and logo*/
@@ -141,4 +145,20 @@ a:hover {
 #keyboard-about h2 {
     color: orange;
 
+}
+
+/* sign up form */
+
+.sign-up-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3); 
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    
+ 
+}
+
+.sign-up-form p {
+    margin-top: 10px;
 }
