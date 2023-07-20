@@ -116,7 +116,7 @@ a:hover {
 }
 
 #monitor-about {
-    padding-top: 30px;
+    padding-top: 50px;
     width: 33%;
     float: left;
     background-color: orange;
@@ -134,4 +134,5 @@ a:hover {
     width: 33%;
     margin: 0 auto;
     background-color: black;
+    color: orange;
 }
