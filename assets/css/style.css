@@ -113,10 +113,11 @@ a:hover {
 
 #products {
     height: 600px;
+    margin-top: 50px;
 }
 
 #monitor-about {
-    padding-top: 50px;
+   
     width: 33%;
     float: left;
     background-color: orange;
@@ -124,7 +125,7 @@ a:hover {
 }
 
 #mouse-about {
-    padding-top: 30px;
+  
     width: 33%;
     float:right;
     background-color: white;
@@ -135,4 +136,9 @@ a:hover {
     margin: 0 auto;
     background-color: black;
     color: orange;
+}
+
+#keyboard-about h2 {
+    color: orange;
+
 }
