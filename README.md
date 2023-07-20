@@ -10,3 +10,4 @@ This website is created for computer components user experience disclosure.There
 
 # Hover effect: "https://css-tricks.com/css-link-hover-effects/"
 
+# Selector Guide: I used the basic informations about css selector from Dave Gray's youtube channel."https://www.youtube.com/watch?v=QgxkYbGr2II"
