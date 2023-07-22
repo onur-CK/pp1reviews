@@ -118,18 +118,15 @@ a:hover {
 
 /* products */
 
-#products {
+#monitor {
     height: 600px;
     margin-top: 100px;
 }
 
-#products h1 {
+#monitor h1 {
     font-size: 800%;
 }
 
-#products h2 {
-    margin-top: 40px;
-}
 
 #monitor-about {
    
@@ -137,36 +134,47 @@ a:hover {
     float: left;
     background-color: white;
     margin: 0 auto;
+    font-size: 17px;
     }
-
-#monitor-about h2 {
-    color: orange;
-}
 
 #monitor-about img {
     max-width: 320px;
     margin-left: 200px;
 }
 
-
+#monitor-about h2 {
+    color: orange;
+}
 
 #mouse-about {
-  
+   
     width: 33%;
-    float:right;
+    float: left;
     background-color: white;
     margin: 0 auto;
-}
+    }
+
+    #mouse-about img {
+        max-width: 320px;
+        margin-left: 200px;
+    }
 
 #mouse-about h2 {
     color: orange;
 }
 
 #keyboard-about {
+   
     width: 33%;
-    margin: 0 auto;
+    float: left;
     background-color: white;
-    color: black;
+    margin: 0 auto;
+    font-size: 17px;
+    }
+
+#keyboard-about img {
+    max-width: 320px;
+    margin-left: 200px;
 }
 
 #keyboard-about h2 {
