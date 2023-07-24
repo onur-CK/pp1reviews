@@ -42,6 +42,7 @@ h2 {
 #menu {
     font-size: 140%;
     letter-spacing: 5px;
+    font-weight: bold;
 }
 
 
@@ -133,22 +134,22 @@ a:hover {
 
 
 .product-item {
-    flex: 0 0 calc(33.33% - 20px);
+  flex: 0 0 calc(33.33% - 20px);
   background-color: white;
   padding: 20px;
   font-size: 17px;
-  margin-bottom: 20px;
+  margin-top: 100px;
   text-align: center;
-  height: 400px; /* Set a fixed height for the product items */
+  height: 400px; 
   }
   
   
 .product-item img {
     max-width: 30%;
-    height: auto; /* This will maintain the aspect ratio of the image */
-    display: block; /* Remove any extra space below the images */
-    margin: 0 auto 10px; /* Center the images horizontally and add some spacing below */
-  }
+    height: auto; 
+    display: block; 
+    margin: 0 auto 10px; 
+}
 
 
 .product-item h2 {
@@ -226,4 +227,16 @@ hr {
     margin: -19px auto 10px;
 }
 
+/* Latest Reviews h1 */
 
+.reviews-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.reviews-heading {
+    
+font-size: 70px; 
+font-weight: bold;
+color: #333; 
+  }
