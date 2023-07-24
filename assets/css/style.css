@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     
 }
 
@@ -14,7 +15,11 @@ body {
     padding: 0;
     background-size: cover;
     background-position: center;
+    position: relative;
+   
+    
 }
+    
 
 /* headings and logo*/
 
@@ -77,10 +82,12 @@ a:hover {
 /* hero image */
 
 #hero-outer {
-    height: 100%;
-    width: 80%;
+    height: 700px;
+    width: 100%;
     overflow: hidden;
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 #cover-text,
@@ -88,14 +95,12 @@ a:hover {
     color: white;
 }
 
-
-
 #hero-image {
     height: 700px;
     width: 100%;
     background: url('../images/monitor-test.jpg') no-repeat center center;
-    
-}
+    background-size: cover;
+  }
 
 #cover-text {
     font-size: 120%;
@@ -113,73 +118,42 @@ a:hover {
     bottom: 30px;
     right: 150px;
     position: absolute;
+    transform: translate(0, 0);
 
 }
 
 /* products */
 
-#monitor {
-    height: 600px;
-    margin-top: 100px;
+#products {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
-
-#monitor h1 {
-    font-size: 800%;
-}
+  
 
 
-#monitor-about {
-   
-    width: 33%;
-    float: left;
-    background-color: white;
-    margin: 0 auto;
-    font-size: 17px;
-    }
+.product-item {
+    flex: 0 0 calc(33.33% - 20px);
+  background-color: white;
+  padding: 20px;
+  font-size: 17px;
+  margin-bottom: 20px;
+  text-align: center;
+  height: 400px; /* Set a fixed height for the product items */
+  }
+  
+  
+.product-item img {
+    max-width: 30%;
+    height: auto; /* This will maintain the aspect ratio of the image */
+    display: block; /* Remove any extra space below the images */
+    margin: 0 auto 10px; /* Center the images horizontally and add some spacing below */
+  }
 
-#monitor-about img {
-    max-width: 320px;
-    margin-left: 200px;
-}
 
-#monitor-about h2 {
+.product-item h2 {
     color: orange;
-}
-
-#mouse-about {
-   
-    width: 33%;
-    float: left;
-    background-color: white;
-    margin: 0 auto;
-    }
-
-    #mouse-about img {
-        max-width: 320px;
-        margin-left: 200px;
-    }
-
-#mouse-about h2 {
-    color: orange;
-}
-
-#keyboard-about {
-   
-    width: 33%;
-    float: left;
-    background-color: white;
-    margin: 0 auto;
-    font-size: 17px;
-    }
-
-#keyboard-about img {
-    max-width: 320px;
-    margin-left: 200px;
-}
-
-#keyboard-about h2 {
-    color: orange;
-
+    margin-top: 10px;
 }
 
 /* sign up form */
@@ -192,7 +166,12 @@ a:hover {
     padding: 20px;
     text-align: center;
     margin-left: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
+
+
 
 .sign-up-form p {
     margin-top: 10px;
