@@ -39,6 +39,7 @@ This website is created for computer components user experience disclosure.There
 
 ![monitor-test](https://github.com/onur-CK/pp1reviews/assets/118271710/8c4e951a-8eb6-4d6f-8305-5c3ba1ea0f38)
 
+<<<<<<< HEAD
 ![razerbasiliskv3pro](https://github.com/onur-CK/pp1reviews/assets/118271710/57a2eabd-df8f-4817-894c-d3bd8e185239)
 
 ![nuphyhalo75](https://github.com/onur-CK/pp1reviews/assets/118271710/3490626a-a9f2-457b-b6f3-2198095ded37)
@@ -51,3 +52,5 @@ This website is created for computer components user experience disclosure.There
 
 
 
+=======
+>>>>>>> 32517a03393ae138a01fa8dee7463ea190273f00
