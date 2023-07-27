@@ -123,6 +123,20 @@ a:hover {
 
 }
 
+/* Latest Reviews h1 */
+
+.reviews-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.reviews-heading {
+    
+font-size: 70px; 
+font-weight: bold;
+color: #333; 
+  }
+
 /* products */
 
 #products {
@@ -151,10 +165,13 @@ a:hover {
     margin: 0 auto 10px; 
 }
 
-
 .product-item h2 {
     color: orange;
-    margin-top: 10px;
+    margin-top: 50px;
+}
+
+.product-item p {
+    margin-top: 50px;
 }
 
 /* sign up form */
@@ -166,13 +183,12 @@ a:hover {
     background: #fff;
     padding: 20px;
     text-align: center;
-    margin-left: 80%;
+    margin-left: 75%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: relative;
 }
-
-
 
 .sign-up-form p {
     margin-top: 10px;
@@ -227,16 +243,9 @@ hr {
     margin: -19px auto 10px;
 }
 
-/* Latest Reviews h1 */
+/* footer */
 
-.reviews-section {
-    text-align: center;
-    margin-top: 100px;
+footer {
+    height: 150px;
 }
 
-.reviews-heading {
-    
-font-size: 70px; 
-font-weight: bold;
-color: #333; 
-  }
