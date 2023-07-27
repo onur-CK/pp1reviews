@@ -37,4 +37,5 @@ This website is created for computer components user experience disclosure.There
 * https://css-tricks.com
 * "DaveGrayTeachesCode" youtube channel
 
-![monitor jpg](https://github.com/onur-CK/pp1reviews/assets/118271710/7ca3e4fa-0eb6-4ecb-905d-ab87840abab5)
+![monitor-test](https://github.com/onur-CK/pp1reviews/assets/118271710/8c4e951a-8eb6-4d6f-8305-5c3ba1ea0f38)
+
