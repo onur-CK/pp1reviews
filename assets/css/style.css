@@ -209,5 +209,33 @@ footer {
     
 }
 
+/* About */
+
+#about {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+  
+.about-about {
+  flex: 0 0 calc(33.33% - 20px);
+  background-color: white;
+  padding: 20px;
+  font-size: 17px;
+  margin-top: 50px;
+  text-align: center;
+  height: 400px; 
+  }
+
+.about-about p {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+
+
+
+
 
 
