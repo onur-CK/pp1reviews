@@ -122,6 +122,30 @@ a:hover {
     transform: translate(0, 0);
 }
 
+/* About */
+
+#about {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+  
+.about-about {
+  flex: 0 0 calc(33.33% - 20px);
+  background-color: white;
+  padding: 20px;
+  font-size: 17px;
+  margin-top: 50px;
+  text-align: center;
+  height: 400px; 
+  }
+
+.about-about p {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
 /* Latest Reviews h1 */
 
 .reviews-section {
@@ -173,6 +197,57 @@ margin-top: 50px;
     margin-top: 50px;
 }
 
+/* Sign-up Form */
+
+.sign-up-form {
+    width: 400px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    padding: 50px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.termsofservice {
+    margin-top: 10px;
+}
+
+.input-box {
+    margin-top: 20px;
+}
+
+.signup-btn {
+    margin-top: 10px;
+    font-weight: bold;
+    background-color: black;
+}
+
+.sign-up-form h1 {
+    color: orange;
+    margin-bottom: 30px;
+}
+
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid orange;
+    border-width: thick;
+    outline: none;
+}
+
+button {
+    color: orange;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
 /* footer */
 
 footer {
@@ -194,44 +269,6 @@ footer {
     color: black;
 }
 
-/* contact us */
-
-.contact-us {
-    font-size: 20px;
-    margin-top: 40px;
-    text-align: center;
-    margin-top: 400px;
-}
-
-.contact-us-about {
-    font-size: 22px;
-    margin-top: 20px;
-    
-}
-
-/* About */
-
-#about {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    margin-top: 50px;
-}
-  
-.about-about {
-  flex: 0 0 calc(33.33% - 20px);
-  background-color: white;
-  padding: 20px;
-  font-size: 17px;
-  margin-top: 50px;
-  text-align: center;
-  height: 400px; 
-  }
-
-.about-about p {
-    margin-top: 40px;
-    font-size: 18px;
-}
 
 
 
