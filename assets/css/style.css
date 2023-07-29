@@ -131,8 +131,9 @@ a:hover {
     margin-top: 50px;
 }
 
-#about-heading {
+.about-heading {
     text-align: center;
+    font-size: 50px;
 }
 
 .about-about {
@@ -314,6 +315,28 @@ footer {
     margin-top: 20px;
 }
 
+.about-about p {
+    margin-top: 20px;
+} 
+
+#latest-review {
+    margin-top: 40px;
+}
+
+}
+
+@media screen and (max-width: 761px) {
+
+.reviews-heading {
+    margin-top: 200px;
+    }
+
+    #latest-review {
+        margin-top: 40px;
+    }
+
+}
+
 @media screen and (max-width: 755px) {
 #about {
     clear: both;
@@ -321,6 +344,10 @@ footer {
     float: left;
     padding: 0;
     text-align: center;
+}
+
+#latest-review {
+    margin-top: 40px;
 }
 
 }
@@ -332,3 +359,5 @@ footer {
 } 
 
 }
+
+
