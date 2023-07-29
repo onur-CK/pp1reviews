@@ -2,11 +2,17 @@
 
 This website is created for computer components user experience disclosure.There are so many advertisements and sponsorships today and this makes it harder to find what worths buying and even when we try to search about the user esperience of the products we want to buy, its hard to find beacuse of the sponsorships.This website is dedicated to not have sponsorships or getting ads.Our passion is to compare and find the best user experience and share with everyone.
 
-# Features
+## Features
 
-# The Header
+**Navigation**
 
-# The About Section
+- Featured at the top of the page, navigation shows the website's name "Product Reviews."
+- On the right side i have navigation links: About, Review and Sign Up which link to different sections of the same page. 
+- The navigation is in a usual font and has no different colors to keep it simple and make it user friendly.
+
+### The Header
+
+#### The About Section
 
 # The Review Section
 
