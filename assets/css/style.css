@@ -290,6 +290,12 @@ footer {
     color: black;
 }
 
+/* Thank You Message */
+
+.sign-up-form img {
+    height: 300px;
+}
+
 /* Media Queries */
 
 
