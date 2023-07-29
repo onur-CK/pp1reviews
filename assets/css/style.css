@@ -130,7 +130,11 @@ a:hover {
     flex-wrap: wrap;
     margin-top: 50px;
 }
-  
+
+#about-heading {
+    text-align: center;
+}
+
 .about-about {
   flex: 0 0 calc(33.33% - 20px);
   background-color: white;
@@ -195,7 +199,7 @@ margin-top: 50px;
     margin-top: 50px;
 }
 
-#products-h1 {
+#products-h2 {
     margin-top: 50px;
     text-align: center;
 }
@@ -232,7 +236,7 @@ margin-top: 50px;
     background-color: black;
 }
 
-.sign-up-form h1 {
+.sign-up-form h2 {
     color: orange;
     margin-bottom: 30px;
 }
@@ -305,7 +309,7 @@ footer {
         line-height: 1.56rem;
 }
 
-#products-h1 {
+#products-h2 {
     font-size: 22px;
     margin-top: 20px;
 }
