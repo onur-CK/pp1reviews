@@ -20,7 +20,6 @@ body {
     
 }
     
-
 /* headings and logo*/
 
 h1,
@@ -44,7 +43,6 @@ h2 {
     letter-spacing: 5px;
     font-weight: bold;
 }
-
 
 #menu,
 #logo {
@@ -107,15 +105,11 @@ a:hover {
     font-size: 120%;
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 4px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     background-color: rgba(255, 165, 0, .7);
-
     bottom: 30px;
     right: 150px;
     position: absolute;
@@ -137,14 +131,14 @@ a:hover {
 }
 
 .about-about {
-  flex: 0 0 calc(33.33% - 20px);
-  background-color: white;
-  padding: 20px;
-  font-size: 17px;
-  margin-top: 50px;
-  text-align: center;
-  height: 400px; 
-  }
+    flex: 0 0 calc(33.33% - 20px);
+    background-color: white;
+    padding: 20px;
+    font-size: 17px;
+    margin-top: 50px;
+    text-align: center;
+    height: 400px; 
+}
 
 .about-about p {
     margin-top: 40px;
@@ -189,7 +183,6 @@ margin-top: 50px;
     display: block; 
     margin: 0 auto 10px; 
 }
-
 
 .product-item h2 {
     color: orange;
@@ -303,11 +296,11 @@ footer {
 @media screen and (max-width: 950px) {
 
 #menu {
-        clear: left;
-        float: left;
-        margin-left: 1.25rem;
-        margin-bottom: 1.25rem;
-        line-height: 1.56rem;
+    clear: left;
+    float: left;
+    margin-left: 1.25rem;
+    margin-bottom: 1.25rem;
+    line-height: 1.56rem;
 }
 
 #products-h2 {
