@@ -104,10 +104,11 @@ This website is created for computer components' user experience disclosure. The
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-    -
-    -
-    -
-The live link can be found here -" "
+    -Repository settings.
+    -Go to settings and click pages section.
+    -Click branch menu and select main and save.
+
+The live link can be found here [Product Reviews](https://onur-ck.github.io/pp1reviews/)
 
 ## Credits
 
