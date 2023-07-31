@@ -48,7 +48,8 @@ This website is created for computer components' user experience disclosure. The
 
 
 - __Footer__
- I added our social media links with social meedia icons just under the signup form to make it more eye catching along the signing up process.
+ 
+I added our social media links with social meedia icons just under the signup form to make it more eye catching along the signing up process.
 
 ## Design
 
@@ -65,7 +66,7 @@ This website is created for computer components' user experience disclosure. The
   - I confirmed that the sign-up form works: requires only an email and a name and the sign-up button for submitting works.
   - I also used the lighthouse devtool test and here are the results for mobile and desktop lighthouse tests:
 
-  Mobile:
+   Mobile:
 
 ![lighthouse-mobile-general](https://github.com/onur-CK/pp1reviews/assets/118271710/17d4c7d1-af38-4228-81b0-a90ffb8bad1e)
 
@@ -75,7 +76,7 @@ This website is created for computer components' user experience disclosure. The
 
 ![lighthouse-mobile-seo](https://github.com/onur-CK/pp1reviews/assets/118271710/399674df-2eb9-4012-83e5-2abd26e1fb3b)
 
-  Desktop:
+   Desktop:
 
 ![lighthouse-desktop-general](https://github.com/onur-CK/pp1reviews/assets/118271710/2eee2d56-9773-4c4d-9dcb-e4c63f947008)
 
@@ -99,14 +100,15 @@ This website is created for computer components' user experience disclosure. The
 ![css-validator](https://github.com/onur-CK/pp1reviews/assets/118271710/312014ac-c9a9-4ba5-8d86-9c0a1485950a)
 
    - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools.
-   - Unfixed Bugs
+ 
+ - Unfixed Bugs
    - No unfixed bugs
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-    -Repository settings.
-    -Go to settings and click pages section.
-    -Click branch menu and select main and save.
+    - Repository settings.
+    - Go to settings and click pages section.
+    - Click branch menu and select main and save.
 
 The live link can be found here [Product Reviews](https://onur-ck.github.io/pp1reviews/)
 
@@ -114,7 +116,7 @@ The live link can be found here [Product Reviews](https://onur-ck.github.io/pp1r
 
 ### Content
 
-The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
+ The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
 
 ### Media 
 
