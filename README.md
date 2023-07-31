@@ -55,7 +55,9 @@ This website is created for computer components' user experience disclosure. The
     -
 The live link can be found here -" "
 
-# Content
+# Credits
+
+## Content
 - The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
 
 
@@ -68,7 +70,7 @@ The live link can be found here -" "
 
 # Sources I got inspired by and got help:
 - I used these sources as a source to learn I didn't use any of the code sources completely. I tried to learn by watching and learning and then when I became able to use the codes consciously. These sources turned into a default layout for me.
-* https://www.youtube.com/@KevinPowell
+* [Kevin Powell](https://www.youtube.com/@KevinPowell)
 * https://www.youtube.com/@GreatStackDev
 * ChatGPT(I could not have much help from because ChatGPT makes too many basic mistakes or maybe i don't know how to use it properly)
 * https://www.youtube.com/@freecodecamp
