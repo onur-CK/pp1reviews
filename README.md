@@ -58,25 +58,28 @@ The live link can be found here -" "
 # Credits
 
 ## Content
+
 - The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
 
 
 # Media 
 
 # Inspirations and technical research: 
-[Mouse](https://www.youtube.com/@TechLead)
-[Keyboard] https://www.rtings.com/
-[Monitor] https://www.youtube.com/@BijanJamshidi
+
+* [Mouse](https://www.youtube.com/@TechLead)
+* [Keyboard] https://www.rtings.com/
+*[Monitor] https://www.youtube.com/@BijanJamshidi
 
 # Sources I got inspired by and got help:
+
 - I used these sources as a source to learn I didn't use any of the code sources completely. I tried to learn by watching and learning and then when I became able to use the codes consciously. These sources turned into a default layout for me.
 * [Kevin Powell](https://www.youtube.com/@KevinPowell)
-* https://www.youtube.com/@GreatStackDev
+* [GreatStackDev](https://www.youtube.com/@GreatStackDev)
 * ChatGPT(I could not have much help from because ChatGPT makes too many basic mistakes or maybe i don't know how to use it properly)
-* https://www.youtube.com/@freecodecamp
-* https://www.youtube.com/@WebDevSimplified
-* https://css-tricks.com
-* https://www.youtube.com/@DaveGrayTeachesCode
+* [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+* [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
+* [css-tricks](https://css-tricks.com)
+* [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode)
 
 
 
