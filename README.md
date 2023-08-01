@@ -55,11 +55,12 @@ I added our social media links with social meedia icons just under the signup fo
 
 ## Design
 
-![wireframe-computer](https://github.com/onur-CK/pp1reviews/assets/118271710/12fca57f-c237-4b92-b7d5-d3565ff0797f)
+![wireframe-desktop](https://github.com/onur-CK/pp1reviews/assets/118271710/2e75eb10-768c-4333-a52e-1815a1ab47df)
 
-![Wireframe-tablet](https://github.com/onur-CK/pp1reviews/assets/118271710/dee04e97-491d-400d-97f4-baa34ac87ccc)
+![wireframe-tablet](https://github.com/onur-CK/pp1reviews/assets/118271710/3ee44c30-5d42-4b61-be6c-b0a35ec1198c)
 
-![Wireframe-mobilephone](https://github.com/onur-CK/pp1reviews/assets/118271710/80f16650-6c58-4fa8-ba1b-776fa32d3288)
+![wireframe-mobile](https://github.com/onur-CK/pp1reviews/assets/118271710/62aaa0fd-9cd9-4a49-a7e0-ea4d9387fef0)
+
 
 ## Testing
 
