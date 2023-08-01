@@ -40,7 +40,7 @@ This website is created for computer components' user experience disclosure. The
  - This form requires only a name and an email address.
  - This Sign Up form is valuable to the user as it gives them the ability to sign up to join and be a part of the Product Reviews community.
 
- ![signup](https://github.com/onur-CK/pp1reviews/assets/118271710/e1b54634-b80c-4445-883c-a8b50deb0016)
+![signup](https://github.com/onur-CK/pp1reviews/assets/118271710/899f19b7-6331-445d-aa87-9c0d0d318b21)
 
 - This Sign Up form also returns a thank you message for creating a responsive user experience.
 
