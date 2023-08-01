@@ -2,6 +2,8 @@
 
 This website is created for computer components' user experience disclosure. There are so many advertisements and sponsorships today and this makes it harder to find what is worth buying even when we try to search about the user experience of the products we want to buy, it's hard to find because of the sponsorships. This website is dedicated to not having sponsorships or getting ads. Our passion is to compare and find the best user experience and share it with everyone.
 
+![amiresponsive](https://github.com/onur-CK/pp1reviews/assets/118271710/6a4c828d-6c3d-4773-b923-731628f926c9)
+
 ## Features
 
 **Navigation**
