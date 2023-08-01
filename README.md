@@ -123,7 +123,8 @@ The live link can be found here https://onur-ck.github.io/pp1reviews
 
 ### Content
 
-The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
+- The code to make the Sign-Up form was taken from the "https://www.youtube.com/@GreatStackDev".But I made too many changes to it.
+- Some parts of the "We Find The Best Products For Your Needs" and "Latest Reviews" contexts taken from [rtings](https://www.rtings.com/)
 
 ### Media
 
