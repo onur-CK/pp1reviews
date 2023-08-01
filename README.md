@@ -23,20 +23,20 @@ This website is created for computer components' user experience disclosure. The
 ![header](https://github.com/onur-CK/pp1reviews/assets/118271710/b6fe4f19-3961-4c89-ad39-5e38fe7ca44b)
 
 
-- __The About Section__
+**The About Section**
 
  - The About Us section gives details about what the website offers its members.
  - This section reveals the website's differences from its competitors.
 
 ![about](https://github.com/onur-CK/pp1reviews/assets/118271710/862cf194-ed6f-4af6-8a16-d62bd16a0dd5)
 
-- __The Review Section__
+**The Review Section**
 
  - This section is located just below the About section so that the recently reviewed products can be easily found and stand out strikingly.
 
 ![reviews](https://github.com/onur-CK/pp1reviews/assets/118271710/afbbcd5d-4211-4e06-986f-27e5d8aea80a)
 
-- __The Sign-Up Section__
+**The Sign-Up Section**
 
  - The Sign Up section has a small and simple type and style and a   position to keep it user-friendly and easy to find and use.
  - This form requires only a name and an email address.
@@ -49,7 +49,7 @@ This website is created for computer components' user experience disclosure. The
 ![thank-you-message](https://github.com/onur-CK/pp1reviews/assets/118271710/42ff0adb-8baa-4d96-acbb-8ae6510a5169)
 
 
-- __Footer__
+**Footer**
  
 I added our social media links with social meedia icons just under the signup form to make it more eye catching along the signing up process.
 
