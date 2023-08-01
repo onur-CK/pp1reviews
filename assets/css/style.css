@@ -320,7 +320,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 761px) {
+@media screen and (max-width: 790px) {
   .reviews-heading {
     margin-top: 200px;
   }
@@ -351,9 +351,6 @@ footer {
   #latest-review {
     margin-top: 40px;
   }
-}
-
-@media screen and (max-width: 630px) {
 
   #products {
     display: block;
@@ -363,6 +360,12 @@ footer {
     flex: 1 1 100%;
   }
 
+}
+
+@media screen and (max-width: 630px) {
+  .reviews-heading {
+    margin-top: 30px;
+  }
 }
 
 @media screen and (max-width: 455px) {
