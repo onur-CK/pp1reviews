@@ -51,7 +51,7 @@ This website is created for computer components' user experience disclosure. The
 
 - This Sign Up form also returns a thank you message for creating a responsive user experience.
 
-![thank-you-message](https://github.com/onur-CK/pp1reviews/assets/118271710/42ff0adb-8baa-4d96-acbb-8ae6510a5169)
+![thankyou-message](https://github.com/onur-CK/pp1reviews/assets/118271710/9d3d7eba-73fc-4315-8698-f8089c498048)
 
 **Footer**
 
