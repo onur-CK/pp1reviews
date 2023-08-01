@@ -23,7 +23,7 @@ h1,
 h2 {
   font-family: "Noto Sans Cypro Minoan", sans-serif;
   text-transform: uppercase;
-  -spalettercing: 4px;
+  letter-spacing: 4px;
   color: black;
 }
 
@@ -204,7 +204,6 @@ a:hover {
 
 .sign-up-form {
   width: clamp(320px, 100%, 400px);
-  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
   padding: 50px;
   margin: 0 auto 50px;
   text-align: center;
@@ -286,9 +285,23 @@ footer {
 
 /* Thank You Message */
 
-.sign-up-form img {
-  height: 300px;
+#signup-form {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
 }
+
+.submit-container {
+  text-align: center;
+  position: relative;
+}
+
+.submit-container {
+  position: relative; 
+  left: -50px;
+ 
+}
+
 
 /* Media Queries */
 
