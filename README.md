@@ -128,8 +128,9 @@ The live link can be found here https://onur-ck.github.io/pp1reviews
 
 ### Media
 
-- I took the monitor testing hero image and the keyboard image from [rtings](https://www.rtings.com/)
-- I took the monitor image from [lg.com](https://www.lg.com/de/monitore/lg-38gn950-b)
+- I took the monitor testing hero image and the "NuPhy Halo 75" keyboard image from [Rtings](https://www.rtings.com/)
+- I took the "LG-38gn950-B" monitor image is taken from [LG](https://www.lg.com/de/monitore/lg-38gn950-b)
+- The "Razer Basilisk V3 Pro" product image is taken from [Razer](https://www.razer.com/de)
 
 ## Inspirations and technical research:
 
@@ -145,7 +146,7 @@ I used these sources as a source to learn.I didn't use any of the code sources c
 - [GreatStackDev](https://www.youtube.com/@GreatStackDev)
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 - [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
-- [css-tricks](https://css-tricks.com)
+- [Css-Tricks](https://css-tricks.com)
 - [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode)
 - [ChatGPT](https://chat.openai.com/) (I could not have much help from because ChatGPT makes too many basic mistakes or maybe i don't know how to use it properly)
 
