@@ -147,7 +147,7 @@ I used these sources as a source to learn.I didn't use any of the code sources c
 - [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
 - [css-tricks](https://css-tricks.com)
 - [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode)
-- ChatGPT(I could not have much help from because ChatGPT makes too many basic mistakes or maybe i don't know how to use it properly)
+- [ChatGPT](https://chat.openai.com/) (I could not have much help from because ChatGPT makes too many basic mistakes or maybe i don't know how to use it properly)
 
 ## Technologies and tools used along the project:
 
