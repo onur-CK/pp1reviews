@@ -296,12 +296,11 @@ footer {
   position: relative;
 }
 
-.submit-container {
-  position: relative; 
-  left: -50px;
- 
+.submit-container img.check-icon {
+  width: 150px; /* Default size */
+  max-width: 100%; /* Ensures the icon scales down properly */
+  margin-top: 20px;
 }
-
 
 /* Media Queries */
 
@@ -371,6 +370,10 @@ footer {
   .product-item {
     flex: 1 1 100%;
   }
+
+  .submit-container img.check-icon {
+    width: 100px; /* Size adjudstment for smaller screens */
+  }
 }
 
 @media screen and (max-width: 630px) {
@@ -390,3 +393,4 @@ footer {
     letter-spacing: 0;
   }
 }
+
