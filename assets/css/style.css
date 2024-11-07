@@ -73,8 +73,12 @@ menu a:hover {
   transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
+h1:hover {
+  box-shadow: inset 1000px 0 0 0 orange;
+}
+
 a:hover {
-  box-shadow: inset 100px 0 0 0 orange;
+  box-shadow: inset 120px 0 0 0 orange;
   color: white;
 }
 
