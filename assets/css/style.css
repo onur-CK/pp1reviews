@@ -35,10 +35,18 @@ h2 {
 
 /*navigation bar */
 
+header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1000;
+}
+
 #menu {
   font-size: 140%;
   letter-spacing: 5px;
   font-weight: bold;
+  margin: 0;
 }
 
 #menu,
