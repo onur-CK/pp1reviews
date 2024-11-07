@@ -392,5 +392,9 @@ footer {
     clear: left;
     letter-spacing: 0;
   }
+  
+  .submit-container img.check-icon {
+    width: 80px; /* For very small screens */
+  }
 }
 
