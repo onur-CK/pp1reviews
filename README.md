@@ -123,6 +123,15 @@ Desktop:
 - Unfixed Bugs
   - No unfixed bugs
 
+- Html validation tests after the final improvements
+
+![index_html_validator](https://github.com/user-attachments/assets/9c5ec745-1c10-4448-8837-3de18c045cc7)
+![thankyou_html_validator](https://github.com/user-attachments/assets/106fbf0e-4d1e-4cdd-85ac-4e1462b9f433)
+
+- CSS validation tests after the final improvements
+
+![css_validator](https://github.com/user-attachments/assets/36238549-3579-4981-8306-a808238c5e1c)
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
