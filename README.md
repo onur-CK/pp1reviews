@@ -13,6 +13,7 @@ This website is created for computer components' user experience disclosure. The
 - Featured at the top of the page, navigation shows the website's name "Product Reviews."
 - On the right side I have navigation links: About, Review, and, Sign Up which link to different sections of the same page.
 - The navigation is in a usual font and has no different colors to keep it simple and make it user-friendly.
+- Add final changes to navigation bar to make it sticky in order to improve the interface.
 
 ![navbar](https://github.com/onur-CK/pp1reviews/assets/118271710/6d296bb0-4037-4235-a3ab-1e8f74ef7fa7)
 
