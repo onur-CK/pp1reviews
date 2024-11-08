@@ -53,6 +53,10 @@ This website is created for computer components' user experience disclosure. The
 
 ![thankyou-message](https://github.com/onur-CK/pp1reviews/assets/118271710/9d3d7eba-73fc-4315-8698-f8089c498048)
 
+- Modified version of the thank you message icon after doing the adjustments for different screen sizes.
+
+![thankyoumessage](https://github.com/user-attachments/assets/f73a40f1-dbf9-4630-b05d-82715d08413a)
+
 **Footer**
 
 I added our social media links with social meedia icons just under the signup form to make it more eye catching along the signing up process.
@@ -91,6 +95,14 @@ Desktop:
 ![lighthouse-desktop-best-practices](https://github.com/onur-CK/pp1reviews/assets/118271710/36b1a318-0a93-4cc5-9173-77e2afe99975)
 
 ![lighthouse-desktop-seo](https://github.com/onur-CK/pp1reviews/assets/118271710/dbea643a-d48e-46fd-aaa5-01a1d91e8939)
+
+- Latest mobile test after the responsiveness changes
+
+![mobile_test](https://github.com/user-attachments/assets/a01b20a9-467d-4825-8c07-cb6e5f7e408a)
+
+- Latest desktop test after the responsiveness changes
+
+![desktop_test](https://github.com/user-attachments/assets/b284bbd3-1b7c-42db-9467-7facaf58a7c6)
 
 ### Validator Testing
 
